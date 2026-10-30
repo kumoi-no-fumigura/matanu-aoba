@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/matanu-aoba",
  "yomi": "またぬあおば",
  "category": "日記",
- "description": null,
+ "description": {
+  "kind": "日記（哀傷）",
+  "era": "天保2年（1831）2月序",
+  "author": "香川景樹（1768〜1843）",
+  "desc": "香川景樹が妻包子を亡くした3月12日から、葬送とその後の日々を記した哀傷の日記。弔問の人々と贈り答えた歌も収める。"
+ },
  "editions": [
   {
    "pid": "993382",
